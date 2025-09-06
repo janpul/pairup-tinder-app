@@ -1,0 +1,44 @@
+# Android Studio
+.idea/
+*.iml
+
+# Build output
+/build/
+/app/build/
+/out/
+
+# Local configuration
+local.properties
+*.keystore
+
+# Gradle
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# User-specific files
+*.tmp
+*.swp
+
+# Dependency caches
+.cxx/
+.externalNativeBuild/
+node_modules/
+
+# Generated files
+*.apk
+*.ap_
+*.class
+*.dex
+*.jar
+
+# VS Code
+.vscode/
+.history/

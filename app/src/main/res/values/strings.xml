@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PairUp</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="interest_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Both</item>
+    </string-array>
+    <string name="profile_picture">Profile Picture</string>
+</resources>
